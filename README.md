@@ -1,4 +1,4 @@
-# Automated Segmentation Template for Large Medical Images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+# Automated Segmentation Template for Large Medical Images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M9YpnjPqowdUj2UuLRLy-7pXiAfeJkfV?usp=sharing)
 
 -- Mainly shared for template functions.
 
