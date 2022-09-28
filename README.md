@@ -6,9 +6,9 @@
 
 -- Used Keras.
 
--- Implemented MultiResUnet (https://github.com/nibtehaz/MultiResUNet).
+-- Implemented MultiResUnet ([Source](https://github.com/nibtehaz/MultiResUNet)).
 
--- Used custom loss functions (https://github.com/Mr-TalhaIlyas/Loss-Functions-Package-Tensorflow-Keras-PyTorch).
+-- Used custom loss functions ([Source](https://github.com/Mr-TalhaIlyas/Loss-Functions-Package-Tensorflow-Keras-PyTorch)).
 
 
 
@@ -17,6 +17,8 @@
 
 
 # ISIC-2018-Segmentation-Task
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YIaOQD7ivcB2y_nqjwj6c2DUaOx6N2DB?usp=sharing)
+
 
 --This is a segmentation task on ISIC 2018 dataset.
 
