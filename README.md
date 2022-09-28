@@ -1,4 +1,4 @@
-# Segmentation Template for Large Medical Images
+# Automated Segmentation Template for Large Medical Images
 
 -- Mainly shared for template functions.
 
